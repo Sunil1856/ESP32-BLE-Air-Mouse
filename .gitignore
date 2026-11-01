@@ -1,0 +1,13 @@
+# Compiled binaries & build artifacts
+*.hex
+*.bin
+*.elf
+build/
+*.o
+*.a
+
+# IDE folders
+.vscode/
+.idea/
+*.swp
+*.bak
